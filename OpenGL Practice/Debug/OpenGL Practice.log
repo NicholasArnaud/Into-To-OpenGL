@@ -1,5 +1,3 @@
 ﻿  Source.cpp
-c:\users\s178066\documents\github\intro-to-opengl\opengl practice\source.cpp(143): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\s178066\documents\github\intro-to-opengl\opengl practice\source.cpp(106): warning C4101: 'EBO': unreferenced local variable
   OpenGL Practice.vcxproj -> C:\Users\s178066\Documents\GitHub\Intro-To-OpenGL\Debug\OpenGL Practice.exe
   OpenGL Practice.vcxproj -> C:\Users\s178066\Documents\GitHub\Intro-To-OpenGL\Debug\OpenGL Practice.pdb (Partial PDB)
